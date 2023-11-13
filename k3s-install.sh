@@ -4,7 +4,6 @@ echo "-----------------------------------------------------"
 dnf install -y dnf-utils
 dnf module install -y container-tools/common
 echo "-----------------------------------------------------"
-echo "Done!"
 read -p "Press any key to continue ..."
 echo "Downloading necessary software"
 echo "-----------------------------------------------------"
